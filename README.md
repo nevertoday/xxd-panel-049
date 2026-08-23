@@ -27,9 +27,25 @@ XXD Panel 049 主动删去复杂背景与细碎信息，把照片中真正承载
 
 完整规则：[Skill 工作流](SKILL.md) · [原始提示词](references/049-source.md) · [中文生产提示词](references/xxd-panel-049-prompt.zh-CN.md) · [英文生产提示词](references/xxd-panel-049-prompt.en.md)
 
-## 样张
+## 样张 · 来自 X
 
-样张仍在制作中，当前不会借用其他 Panel 的图片或生成占位图。未来加入的样张只展示 049 的审美动机，不会成为固定主体、配色、构图、文案或画幅。[样张说明](assets/examples/README.md)
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091453089954070791) · 2026 年 8 月 23 日<br>
+> GPT2 × 版画 × 治愈系 × 美学提示词 × VOL.049
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 049 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 049 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 049 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 049 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 049 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 四种可组合模式
 

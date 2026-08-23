@@ -20,9 +20,25 @@ XXD Panel 049 は複雑な背景と細部を積極的に削り、認識と感情
 
 完全な仕様：[Skill](SKILL.md) · [原文](references/049-source.md) · [英語生成プロンプト](references/xxd-panel-049-prompt.en.md) · [中国語生成プロンプト](references/xxd-panel-049-prompt.zh-CN.md)
 
-## サンプル
+## 作例 · X より
 
-サンプルは制作中です。他の Panel の画像や架空のプレースホルダーは使用しません。将来のサンプルも固定の被写体、配色、構図、文案、画角にはなりません。[方針](assets/examples/README.md)
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091453089954070791) · 2026年8月23日<br>
+> GPT2 × 版画 × 癒やし × 美学プロンプト × VOL.049
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 049 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 049 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 049 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 049 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 049 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 組み合わせ可能な四つのモード
 

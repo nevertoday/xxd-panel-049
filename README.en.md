@@ -27,9 +27,25 @@ lock identity, silhouette, direction, and emotional relation → preserve three 
 
 Full specifications: [Skill](SKILL.md) · [source brief](references/049-source.md) · [English production prompt](references/xxd-panel-049-prompt.en.md) · [Chinese production prompt](references/xxd-panel-049-prompt.zh-CN.md)
 
-## Samples
+## Samples · From X
 
-Samples are still in production. This repository does not borrow another Panel's artwork or create fake placeholders. Future samples demonstrate only the 049 aesthetic motive and never become fixed subjects, palettes, compositions, copy, or canvas sizes. [Sample policy](assets/examples/README.md)
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091453089954070791) · 23 August 2026<br>
+> GPT2 × printmaking × healing mood × aesthetic prompt × VOL.049
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 049 sample 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 049 sample 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 049 sample 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 049 sample 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791">View the original post and full prompt →</a></p>
+
+These samples demonstrate the 049 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
 ## Four combinable modes
 
