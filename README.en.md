@@ -47,16 +47,20 @@ Full specifications: [Skill](SKILL.md) · [source brief](references/049-source.m
 
 These samples demonstrate the 049 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Four combinable modes
+## Four combinable output modes
 
-| Mode | Unspecified size | Result |
+Choose one or several modes with `1`, `1+3`, `1,2,4`, or `all`; `all` produces seven separate PNGs per source. After mode selection and before generation, the Skill explicitly asks for the whole finished canvas: the original-prompt `3:4`, an explicit source-aspect choice, a common ratio, or custom ratio/exact pixels. Source dimensions are never applied silently.
+
+| Mode | Canvas rule | Result |
 | --- | --- | --- |
-| `top-bottom` | source-adaptive `W×2H` | full source above + equal design below, exact 50/50 |
-| `left-right` | source-adaptive `2W×H` | full source left + equal design right, exact 50/50 |
-| `design-only` | source-adaptive `W×H` | transformed design only |
-| `wallpaper-pack` | labelled per device | separate phone, iPad, desktop, and watch PNGs |
+| `top-bottom` | user-confirmed whole canvas | one complete generation: high-fidelity source above, 049 design below, approximately 50/50 |
+| `left-right` | user-confirmed whole canvas | one complete generation: high-fidelity source left, 049 design right, approximately 50/50 |
+| `design-only` | user-confirmed whole canvas | 049 design fills the canvas; source remains invisible |
+| `wallpaper-pack` | confirmed per device | separate phone, iPad, desktop, and children's-watch PNGs |
 
-Choose one or several; all modes create seven PNGs per source. Wallpaper packs may be linked or independent. A linked set references the original plus one approved anchor and never crops or chains derivatives.
+Paired modes use the source as a high-fidelity edit/reference input and one complete style prompt to generate the finished composition directly, so photography, design, colour, light, typography, and meaning can cohere. Deterministic composition is fallback-only: after one targeted complete-canvas retry fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless final pixel calibration.
+
+Wallpapers may be linked or independent. A linked pack approves one iPad anchor, then recomposes every other device from the original plus that same anchor. An independent pack gives each device only the original. Neither crops another device output nor chains derivatives.
 
 ## Copy, locale, and output
 
