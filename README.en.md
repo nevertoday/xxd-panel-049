@@ -66,6 +66,18 @@ Wallpapers may be linked or independent. A linked pack approves one iPad anchor,
 
 Before generation, resolve automatic copy, exact custom copy, or text-free output, and independently confirm target language or locale. Automatic copy uses a 1–3-word title drawn from identity, action, mood, state, place, or metaphor, integrating type with contour, negative space, and broken print edge. Exact user copy remains verbatim. Ordinary sizes adapt to the source; all deliverables are PNGs in a fresh `~/Desktop/xxd/xxd-panel-049/<fresh-task>/` directory.
 
+## Selectable controls and inline parameters
+
+When the host provides genuine interactive controls, the Skill prefers card-style selection: output modes and ordinary output sizes are multi-select, while copy mode and wallpaper relationship are single-select. Size choices include auto-fit, source aspect, 1:1, 3:4, 4:3, 4:5, 5:4, 2:3, 3:2, 9:16, 16:9, 21:9, 5:7, 7:5, and custom ratios or pixels. Without an interactive control, it falls back to a clear multiline numbered menu rather than showing fake checkboxes.
+
+Every setting can also be supplied as an inline variable:
+
+```text
+/xxd-panel-049 photo.jpg --mode top-bottom,design-only --size auto,3:4,9:16 --text auto --locale ja-JP
+```
+
+Supported parameters include `--mode`, repeatable or comma-separated `--size`, `--text auto|custom|none`, `--locale`, `--copy`, `--wallpaper linked|independent`, `--wallpaper-size`, and `--out`. Complete parameters skip all preflight questions; partial parameters trigger only the missing questions. Different aspect ratios are independently recomposed, and the four-device wallpaper pack remains a separate branch rather than being multiplied by ordinary sizes.
+
 ## Image-model priority
 
 GPT Image 2 is the default first choice. It keeps this project's established workflow: high-fidelity source reference, explicit whole-canvas selection before generation, one complete-canvas generation for paired modes, and scripted composition only as a conditional fallback.
