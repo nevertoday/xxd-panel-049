@@ -14,19 +14,6 @@
 
 XXD Panel 049 actively removes complex background and trivia, rebuilding only the contours, proportions, directions, tonal masses, key structures, and relations that carry recognition and emotion as one woodcut or linocut impression hovering on warm paper.
 
-## Aesthetic motive
-
-```text
-lock identity, silhouette, direction, and emotional relation → preserve three cues → remove incidental background → reduce into carveable contour, ink masses, and negative space → hand-print a small fresh matte palette → let missing ink, breaks, paper show-through, misregistration, and worn edges dissolve according to form → keep abundant warm paper → let copy grow from contour and print edge
-```
-
-- Carved marks may hesitate, vary in width, fray, break, notch, misregister, or lose ink, but every imperfection follows form.
-- Use one anchor, abundant warm paper, and naturally incomplete edges rather than reconstructing the whole background.
-- Derive a small high-lightness, low-to-medium-saturation ink palette from the source; never impose a fixed palette.
-- Reject one-click filters, polished vectors, cartoon outlines, complete frames, uniform grunge, and travel-poster templates.
-
-Full specifications: [Skill](SKILL.md) · [source brief](references/049-source.md) · [English runtime adapter](references/xxd-panel-049-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-049-prompt.zh-CN.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091453089954070791) · 23 August 2026<br>
@@ -46,6 +33,19 @@ Full specifications: [Skill](SKILL.md) · [source brief](references/049-source.m
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 049 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Aesthetic motive
+
+```text
+lock identity, silhouette, direction, and emotional relation → preserve three cues → remove incidental background → reduce into carveable contour, ink masses, and negative space → hand-print a small fresh matte palette → let missing ink, breaks, paper show-through, misregistration, and worn edges dissolve according to form → keep abundant warm paper → let copy grow from contour and print edge
+```
+
+- Carved marks may hesitate, vary in width, fray, break, notch, misregister, or lose ink, but every imperfection follows form.
+- Use one anchor, abundant warm paper, and naturally incomplete edges rather than reconstructing the whole background.
+- Derive a small high-lightness, low-to-medium-saturation ink palette from the source; never impose a fixed palette.
+- Reject one-click filters, polished vectors, cartoon outlines, complete frames, uniform grunge, and travel-poster templates.
+
+Full specifications: [Skill](SKILL.md) · [source brief](references/049-source.md) · [English runtime adapter](references/xxd-panel-049-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-049-prompt.zh-CN.md)
 
 ## The original brief is authoritative
 
