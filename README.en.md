@@ -66,6 +66,14 @@ Wallpapers may be linked or independent. A linked pack approves one iPad anchor,
 
 Before generation, resolve automatic copy, exact custom copy, or text-free output, and independently confirm target language or locale. Automatic copy uses a 1–3-word title drawn from identity, action, mood, state, place, or metaphor, integrating type with contour, negative space, and broken print edge. Exact user copy remains verbatim. Ordinary sizes adapt to the source; all deliverables are PNGs in a fresh `~/Desktop/xxd/xxd-panel-049/<fresh-task>/` directory.
 
+## Image-model priority
+
+GPT Image 2 is the default first choice. It keeps this project's established workflow: high-fidelity source reference, explicit whole-canvas selection before generation, one complete-canvas generation for paired modes, and scripted composition only as a conditional fallback.
+
+Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model may also be used when it is actually available through the current tools or configured routes and can satisfy source fidelity, whole-canvas ratio, target-language text, and linked-wallpaper multi-reference requirements. An alternative changes only the generation route; it must not change modes, canvas, copy, locale, wallpaper relationship, or the complete-canvas-first strategy.
+
+If no suitable route is available, the Skill asks the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task without being echoed, displayed, logged, or exposed. They are not persisted, and provider, account, billing, or global route configuration is not modified, unless the user explicitly requests that configuration change.
+
 ## Install
 
 ```bash
