@@ -34,6 +34,12 @@
 
 XXD Panel 049 主动删去复杂背景与细碎信息，把照片中真正承载识别度与情绪的轮廓、比例、方向、明暗块、关键结构和关系，重构为悬浮在温暖纸面上的木刻或油毡版画印记。
 
+## 原始提示词 · 五种语言
+
+[打开统一的多语言目录](references/original-prompt/)： [简体中文原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+简体中文文件保存小小东提供的逐字原文，并且是运行时唯一审美权威；其他四个版本是忠实的阅读译文，方便国际读者理解和转发，不会反过来改写生图提示词。
+
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 049 适合你吗？
 
@@ -56,11 +62,11 @@ XXD Panel 049 主动删去复杂背景与细碎信息，把照片中真正承载
 - 从源图提炼少量高明度、低至中饱和的清新油墨层，不套固定配色。
 - 拒绝一键滤镜、光滑矢量、卡通描边、完整矩形边框、均匀做旧和旅游模板。
 
-完整规则：[Skill 工作流](SKILL.md) · [原始提示词](references/049-source.md) · [中文运行适配器](references/xxd-panel-049-prompt.zh-CN.md) · [英文运行适配器](references/xxd-panel-049-prompt.en.md)
+完整规则：[Skill 工作流](SKILL.md) · [原始提示词](references/original-prompt/zh-CN.md) · [中文运行适配器](references/xxd-panel-049-prompt.zh-CN.md) · [英文运行适配器](references/xxd-panel-049-prompt.en.md)
 
 ## 原始提示词优先，而不是二次导演
 
-`references/049-source.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
+`references/original-prompt/zh-CN.md` 是本项目唯一的创作与审美权威。Skill 不再额外总结或扩写它，也不会统一规划颜色、色板、美学动机、标题或微文案。原始提示词要求怎样处理颜色、材料、构图、留白与文字，GPT Image 2 就按那套逻辑执行。
 
 模式与尺寸会完整替换原始提示词旧有的 3:4 上下交付容器，但不改写它的转译美学。每张成品只向 GPT Image 2 发送一个已选模式的最终契约，不再把四种模式放进同一个通用模板让模型自行猜测。
 
