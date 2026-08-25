@@ -251,6 +251,17 @@ Each of the 56 Panels preserves its own original brief and aesthetic logic. The 
 
 XXD abbreviates Xiaoxiaodong's brand name. Created and maintained by [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). In-depth consultation is CNY 299/hour. The Skills User Community is a CNY 168 one-time fee. Knowledge Planet + Member Prompt Library is one CNY 699/year payment for both benefits: after joining [Knowledge Planet](https://wx.zsxq.com/group/15554814142882), contact Xiaoxiaodong on WeChat for a [Member Prompt Library](https://vip.xiaoxiaodong.ai/) redemption code; after self-service activation in the prompt library, contact Xiaoxiaodong on WeChat for an invitation to Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
+<!-- xxd-panel-command-system:start -->
+**Community members can use the General Skill that commands the whole roster**
+
+| Level | Skill | Responsibility |
+|---|---|---|
+| **General** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | Detect available numbered Skills; recommend by image, theme, or use; dispatch a chosen number; organize multi-style trials; and assign folders of images to individual jobs. |
+| **Soldiers** | `xxd-panel-NNN` (currently 001–056) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
+
+The General Skill is the command center for the entire numbered-Skill roster. Community members can use it and receive help with installation, updates, roster setup, and dispatch workflows. The General organizes and routes; it never rewrites, blends, or overrides a Soldier's original aesthetic. Every finished asset is still created independently by the selected Soldier Skill.
+<!-- xxd-panel-command-system:end -->
+
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <div align="center">

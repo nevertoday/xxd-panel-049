@@ -242,6 +242,17 @@ ln -s "$(pwd)/xxd-panel-049" ~/.codex/skills/xxd-panel-049
 
 XXD اختصار لعلامة Xiaoxiaodong. الإنشاء والصيانة: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). الاستشارة المعمقة 299 يواناً/ساعة، ومجموعة مستخدمي Skills بدفعة واحدة قدرها 168 يواناً. يفتح دفع سنوي واحد قدره 699 يواناً كلاً من Knowledge Planet ومكتبة توجيهات الأعضاء: بعد الاشتراك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)، تواصل مع Xiaoxiaodong عبر WeChat للحصول على رمز استرداد [مكتبة التوجيهات](https://vip.xiaoxiaodong.ai/)؛ وبعد التفعيل الذاتي في مكتبة التوجيهات، تواصل عبر WeChat للحصول على دعوة إلى Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
+<!-- xxd-panel-command-system:start -->
+**يمكن لأعضاء المجموعة استخدام مهارة الجنرال التي تقود الفريق كاملاً**
+
+| المستوى | Skill | المسؤولية |
+|---|---|---|
+| **الجنرال** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | اكتشاف Skills المرقمة المتاحة، والتوصية حسب الصورة أو الموضوع أو الاستخدام، واستدعاء رقم محدد، وتنظيم تجارب متعددة الأساليب، وتوزيع صور المجلد على مهام منفصلة. |
+| **الجنود** | `xxd-panel-NNN` (حالياً 001–056) | تنفذ كل مهارة مرقمة موجّهها الأصلي وجماليتها الخاصة فقط، وتنجز المهمة الفردية التي يرسلها الجنرال. |
+
+مهارة الجنرال هي مركز قيادة فريق Skills المرقمة بأكمله. ويمكن لأعضاء مجموعة المستخدمين استعمالها والحصول على دعم التثبيت والتحديث وتكوين الفريق وأساليب التوزيع. ينظم الجنرال ويوزع فقط؛ ولا يعيد كتابة جمالية الجندي الأصلية أو يخلطها أو يتجاوزها. وتبقى كل نتيجة من تنفيذ مهارة الجندي المختارة بصورة مستقلة.
+<!-- xxd-panel-command-system:end -->
+
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>

@@ -240,6 +240,17 @@ ln -s "$(pwd)/xxd-panel-049" ~/.codex/skills/xxd-panel-049
 
 XXD는 Xiaoxiaodong 브랜드 이름의 약자입니다. 제작: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). 심층 상담은 CNY 299/시간이며 Skills 사용자 교류 그룹은 CNY 168 일회 결제입니다. Knowledge Planet＋회원 프롬프트 라이브러리는 연 CNY 699 한 번의 결제로 두 혜택을 모두 엽니다. [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)에서 가입한 뒤 WeChat으로 Xiaoxiaodong에게 연락해 [회원 프롬프트 라이브러리](https://vip.xiaoxiaodong.ai/) 교환 코드를 받으세요. 프롬프트 라이브러리에서 셀프서비스로 개통한 뒤에는 WeChat으로 연락해 Knowledge Planet 초대를 받으세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
+<!-- xxd-panel-command-system:start -->
+**참여 멤버가 사용할 수 있는 전체 부대 지휘용 장군 Skill**
+
+| 등급 | Skill | 역할 |
+|---|---|---|
+| **장군급** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 사용 가능한 번호형 Skills 탐지, 이미지·주제·용도별 추천, 번호 지정 파견, 동일 입력의 여러 스타일 시안, 이미지 폴더의 일괄 배정과 개별 작업 파견. |
+| **병사급** | `xxd-panel-NNN` (현재 001–056) | 각 번호가 고유한 원본 프롬프트와 미학만 실행해 장군이 배정한 하나의 작업을 완성합니다. |
+
+장군 Skill은 번호형 Skills 전체 부대의 지휘 본부입니다. 사용자 교류 그룹 멤버는 이를 사용할 수 있으며 설치, 버전 업데이트, 병력 구성, 파견 흐름에 대한 도움을 받을 수 있습니다. 장군은 조직과 파견만 담당하며 병사의 원본 미학을 다시 쓰거나 섞거나 덮어쓰지 않습니다. 각 결과물은 선택된 병사 Skill이 독립적으로 완성합니다.
+<!-- xxd-panel-command-system:end -->
+
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
