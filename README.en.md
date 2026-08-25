@@ -281,7 +281,7 @@ Each of the 60 Panels preserves its own original brief and aesthetic logic. The 
 
 ## About and support
 
-XXD abbreviates Xiaoxiaodong's brand name. Created and maintained by [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). In-depth consultation is CNY 299/hour. This suite's General Command Skill is a one-time CNY 100 purchase. Knowledge Planet + Member Prompt Library + All General Skills Membership is one CNY 699/year payment for all three benefits: after joining [Knowledge Planet](https://wx.zsxq.com/group/15554814142882), contact Xiaoxiaodong on WeChat for a [Member Prompt Library](https://vip.xiaoxiaodong.ai/) redemption code; after self-service activation in the prompt library, contact Xiaoxiaodong on WeChat for an invitation to Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD abbreviates Xiaoxiaodong's brand name. Created and maintained by [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). This suite's General Command Skill is a one-time CNY 100 purchase. Knowledge Planet + Member Prompt Library + All General Skills Membership is one CNY 699/year payment for all three benefits: after joining [Knowledge Planet](https://wx.zsxq.com/group/15554814142882), contact Xiaoxiaodong on WeChat for a [Member Prompt Library](https://vip.xiaoxiaodong.ai/) redemption code; after self-service activation in the prompt library, contact Xiaoxiaodong on WeChat for an invitation to Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 <!-- xxd-panel-command-system:start -->
 **Your purchase unlocks the General Skill that commands the whole roster**

@@ -270,7 +270,7 @@ mkdir -p ~/.codex/skills
 ln -s "$(pwd)/xxd-panel-049" ~/.codex/skills/xxd-panel-049
 ```
 
-XXD는 Xiaoxiaodong 브랜드 이름의 약자입니다. 제작: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). 심층 상담은 CNY 299/시간입니다. 이 시리즈의 장군 총지휘 Skill은 CNY 100 일회 결제로 이용할 수 있습니다. 지식성구＋회원 프롬프트 라이브러리＋모든 장군 Skills 멤버십은 연 CNY 699 한 번의 결제로 세 가지 혜택을 모두 제공합니다. [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)에서 가입한 뒤 WeChat으로 Xiaoxiaodong에게 연락해 [회원 프롬프트 라이브러리](https://vip.xiaoxiaodong.ai/) 교환 코드를 받으세요. 프롬프트 라이브러리에서 셀프서비스로 개통한 뒤에는 WeChat으로 연락해 Knowledge Planet 초대를 받으세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD는 Xiaoxiaodong 브랜드 이름의 약자입니다. 제작: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). 이 시리즈의 장군 총지휘 Skill은 CNY 100 일회 결제로 이용할 수 있습니다. 지식성구＋회원 프롬프트 라이브러리＋모든 장군 Skills 멤버십은 연 CNY 699 한 번의 결제로 세 가지 혜택을 모두 제공합니다. [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)에서 가입한 뒤 WeChat으로 Xiaoxiaodong에게 연락해 [회원 프롬프트 라이브러리](https://vip.xiaoxiaodong.ai/) 교환 코드를 받으세요. 프롬프트 라이브러리에서 셀프서비스로 개통한 뒤에는 WeChat으로 연락해 Knowledge Planet 초대를 받으세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 <!-- xxd-panel-command-system:start -->
 **구매 후 사용 가능: 전체 부대를 지휘하는 장군 Skill**

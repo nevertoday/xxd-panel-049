@@ -281,7 +281,7 @@ Claude Code 用户可链接到 `~/.claude/skills/xxd-panel-049`。安装后重�
 
 ## 关于 XXD 与支持
 
-XXD 是小小东品牌名的缩写。创建与维护者：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。深度咨询 299 元／小时；小小东总控 · 将军总指挥 Skill 100 元，一次付费获得；知识星球＋成员提示词库＋Skills 所有将军会员 699 元／年，一次年费同时开通三项权益。若从[知识星球](https://wx.zsxq.com/group/15554814142882)开通，请微信联系小小东领取[成员提示词库](https://vip.xiaoxiaodong.ai/)兑换码；若在成员提示词库自助开通，请微信联系小小东邀请进入知识星球。[微信](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD 是小小东品牌名的缩写。创建与维护者：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。小小东总控 · 将军总指挥 Skill 100 元，一次付费获得；知识星球＋成员提示词库＋Skills 所有将军会员 699 元／年，一次年费同时开通三项权益。若从[知识星球](https://wx.zsxq.com/group/15554814142882)开通，请微信联系小小东领取[成员提示词库](https://vip.xiaoxiaodong.ai/)兑换码；若在成员提示词库自助开通，请微信联系小小东邀请进入知识星球。[微信](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 <!-- xxd-panel-command-system:start -->
 **购买后可使用：主控全队的将军 Skill**
