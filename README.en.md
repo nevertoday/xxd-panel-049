@@ -10,14 +10,7 @@
 
 </div>
 
-> LIMITED-COLOUR WOODCUT · HAND-CARVED MARKS · MATTE INK · WARM PAPER · BROKEN EDGES
-
-XXD Panel 049 actively removes complex background and trivia, rebuilding only the contours, proportions, directions, tonal masses, key structures, and relations that carry recognition and emotion as one woodcut or linocut impression hovering on warm paper.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091453089954070791) · 23 August 2026<br>
-> GPT2 × printmaking × healing mood × aesthetic prompt × VOL.049
 
 <table>
   <tr>
@@ -30,9 +23,16 @@ XXD Panel 049 actively removes complex background and trivia, rebuilding only th
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091453089954070791) · 23 August 2026<br>
+> GPT2 × printmaking × healing mood × aesthetic prompt × VOL.049
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 049 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> LIMITED-COLOUR WOODCUT · HAND-CARVED MARKS · MATTE INK · WARM PAPER · BROKEN EDGES
+
+XXD Panel 049 actively removes complex background and trivia, rebuilding only the contours, proportions, directions, tonal masses, key structures, and relations that carry recognition and emotion as one woodcut or linocut impression hovering on warm paper.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 049 right for you?
