@@ -192,7 +192,7 @@ Claude Code users may link the folder under `~/.claude/skills/xxd-panel-049`. Re
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
 
-Each of the 56 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
+Each of the 57 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
 
 | Project | Style characteristics |
 |---|---|
@@ -252,6 +252,7 @@ Each of the 56 Panels preserves its own original brief and aesthetic logic. The 
 | [xxd-panel-054](https://github.com/nevertoday/xxd-panel-054) | SELECTIVE MEMORY · MAIN VISUAL · SIX STICKERS · MATTE PRINT · AIRY BLUE |
 | [xxd-panel-055](https://github.com/nevertoday/xxd-panel-055) | SUBJECT NARRATIVE · HEALING PASTELS · LIGHT OIL TEXTURE · AIRY BLUE · EDITORIAL SPACE |
 | [xxd-panel-056](https://github.com/nevertoday/xxd-panel-056) | CORE IMAGE · VAST WHITESPACE · WARM–COOL JUMPS · NAIVE HAND · VISUAL METAPHOR |
+| [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | GEOMETRIC COMPOSITION · INTELLIGENT MOSAIC · ARCHITECTURAL DIAGRAM · ART MAP · WARM–COOL FIELDS |
 <!-- xxd-panel-catalog:end -->
 
 ## About and support
@@ -264,7 +265,7 @@ XXD abbreviates Xiaoxiaodong's brand name. Created and maintained by [@xiaoxiaod
 | Level | Skill | Responsibility |
 |---|---|---|
 | **General** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | Detect available numbered Skills; recommend by image, theme, or use; dispatch a chosen number; organize multi-style trials; and assign folders of images to individual jobs. |
-| **Soldiers** | `xxd-panel-NNN` (currently 001–056) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
+| **Soldiers** | `xxd-panel-NNN` (currently 001–057) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
 
 The General Skill is the command center for the entire numbered-Skill roster. Community members can use it and receive help with installation, updates, roster setup, and dispatch workflows. The General organizes and routes; it never rewrites, blends, or overrides a Soldier's original aesthetic. Every finished asset is still created independently by the selected Soldier Skill.
 <!-- xxd-panel-command-system:end -->
