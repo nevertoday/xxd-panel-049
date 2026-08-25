@@ -268,7 +268,7 @@ The General Skill is the command center for the entire numbered-Skill roster. Co
 
 ## ☕ Support this open-source project
 
-Support is optional and never changes open-source access.
+If this project helps you, you’re welcome to support it through Buy Me a Coffee—entirely optional.
 
 <a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a>
 

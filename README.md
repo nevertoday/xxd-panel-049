@@ -268,7 +268,7 @@ XXD 是小小东品牌名的缩写。创建与维护者：[@xiaoxiaodong01](http
 
 ## ☕ 支持这个开源项目
 
-算力赞助完全自愿，不改变开源项目的访问权限。
+如果项目对你有帮助，愿意的话，可以用小小东本人的微信或支付宝赞赏码支持算力。
 
 <table><tr><td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/wechat-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/wechat-reward-qr.png" alt="XXD 微信赞赏" width="180"></a><br><strong>WeChat</strong></td><td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png" alt="XXD 支付宝赞赏" width="180"></a><br><strong>Alipay</strong></td></tr></table>
 

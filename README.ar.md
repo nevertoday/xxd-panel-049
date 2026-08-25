@@ -255,6 +255,8 @@ XXD اختصار لعلامة Xiaoxiaodong. الإنشاء والصيانة: [@x
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
 
+إذا أفادك المشروع، يمكنك دعمه اختيارياً عبر Buy Me a Coffee.
+
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
 </div>
