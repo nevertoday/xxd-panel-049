@@ -10,6 +10,28 @@
 
 </div>
 
+<!-- xxd-human-intro:start -->
+## 先说人话
+
+你是不是也遇到过：照片明明很好，一交给 AI 做设计，就只剩一层千篇一律的“滤镜感”？主体还在，但那张照片原本的关系、情绪和小细节全丢了。
+
+我做 **Panel 049**，就是想解决这个别扭。它不是给照片硬套模板，而是先认出照片里真正不能丢的东西，再把它翻译成：**把照片最动人的记忆，刻成一枚清新的限色版画**。
+
+### 30 秒看懂它
+
+- **给它什么：** 一张照片、一个图片文件夹，或者一个只说了大概方向的想法。
+- **它会做什么：** 保住人物、物件、动作和关系，再用这一号 Panel 独有的视觉语言重新设计。
+- **最后拿到什么：** 可直接使用的 PNG；可以做对照图、纯设计图，也可以一次生成多种比例或整套壁纸。
+
+### 最省事的试法
+
+不需要先读完下面所有参数。丢一张图给 Agent，然后说：
+
+> 用 XXD Panel 049 帮我处理这张图，先推荐最合适的构图和尺寸。
+
+想先确认审美，就看下面的样张；想马上开做，直接跳到 [开始使用](#开始使用)。完整模式、尺寸和参数都保留在后面的折叠资料里，需要时再查。
+<!-- xxd-human-intro:end -->
+
 ## 样张 · 来自 X
 
 <table>
@@ -20,6 +42,14 @@
   <tr>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 049 样张 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 049 样张 4"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 049 样张 5"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 049 样张 6"></td>
+    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 049 样张 7"></td>
+    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 049 样张 8"></td>
   </tr>
 </table>
 

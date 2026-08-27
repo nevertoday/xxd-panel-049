@@ -10,6 +10,28 @@
 
 </div>
 
+<!-- xxd-human-intro:start -->
+## The short, honest version
+
+Ever had a photo you loved turn into generic “AI design”? The subject survives, but the relationship, mood, and tiny details that made the photo yours disappear.
+
+That frustration is why I made **Panel 049**. It does not press a template onto your image. It first works out what must not be lost, then translates it into **Carve the photograph's most affecting memory into a fresh limited-colour print**.
+
+### Understand it in 30 seconds
+
+- **Give it:** one photo, a folder of images, or a rough idea.
+- **It does:** preserves recognizable people, objects, actions, and relationships, then redesigns them in this Panel’s own visual language.
+- **You get:** ready-to-use PNGs—comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+
+### The easiest way to try it
+
+You do not need to study every option first. Give your Agent an image and say:
+
+> Use XXD Panel 049 on this image and recommend the best layout and size first.
+
+Check the samples below if you want to feel out the aesthetic. If you are ready, jump to [Get started](#get-started). The full modes, sizes, and parameters are tucked into an expandable reference for later.
+<!-- xxd-human-intro:end -->
+
 ## Samples · From X
 
 <table>
@@ -20,6 +42,14 @@
   <tr>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 049 sample 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 049 sample 4"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 049 Sample 5"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 049 Sample 6"></td>
+    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 049 Sample 7"></td>
+    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 049 Sample 8"></td>
   </tr>
 </table>
 

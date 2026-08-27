@@ -10,6 +10,28 @@
 
 </div>
 
+<!-- xxd-human-intro:start -->
+## 먼저, 쉽게 말하면
+
+마음에 드는 사진을 AI에 맡겼는데 어디서 본 듯한 ‘AI 디자인’만 남은 적 있나요? 피사체는 있지만 그 사진만의 관계, 분위기, 작은 단서는 사라집니다.
+
+그 답답함 때문에 **Panel 049**을 만들었습니다. 템플릿을 덮는 대신 사진에서 절대 잃으면 안 될 것을 먼저 찾고, **사진의 가장 인상적인 기억을 맑은 제한색 판화로 새기기**로 번역합니다.
+
+### 30초 만에 이해하기
+
+- **무엇을 주나요:** 사진 한 장, 이미지 폴더, 또는 대략적인 아이디어.
+- **무엇을 하나요:** 사람·사물·동작·관계를 지키고 이 Panel만의 시각 언어로 다시 디자인합니다.
+- **무엇을 받나요:** 바로 쓸 수 있는 PNG. 비교 구성, 디자인 전용, 여러 비율, 배경화면 세트까지 가능합니다.
+
+### 가장 간단한 시작법
+
+처음부터 모든 옵션을 읽을 필요는 없습니다. Agent에 이미지를 주고 이렇게 말하세요.
+
+> XXD Panel 049으로 이 이미지를 작업하고, 먼저 가장 어울리는 구성과 크기를 추천해 줘.
+
+미감을 먼저 보고 싶다면 아래 예시를 보세요. 바로 만들려면 [시작하기](#시작하기)로 이동하세요. 전체 모드와 매개변수는 필요할 때 펼쳐 보는 자료에 담았습니다.
+<!-- xxd-human-intro:end -->
+
 ## 예시 · X에서
 
 <table>
@@ -20,6 +42,14 @@
   <tr>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 049 예시 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091453089954070791"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 049 예시 4"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 049 예시 5"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 049 예시 6"></td>
+    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 049 예시 7"></td>
+    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 049 예시 8"></td>
   </tr>
 </table>
 
