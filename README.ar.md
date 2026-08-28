@@ -58,6 +58,21 @@
   </tr>
 </table>
 
+## نماذج إضافية 3:4 بتكوين أعلى–أسفل
+
+تعيد هذه الأعمال الأربعة استخدام المصادر المستقلة نفسها في مجموعة 16:9 أعلاه، لكن داخل لوحات كاملة 3:4 بتكوين أعلى–أسفل. تبقى الصورة الواقعية في الأعلى، ويُعاد بناء التصميم السفلي وفق الموجّه الأصلي لـ Panel 049. لا يُولَّد النص الإنجليزي إلا من محتوى كل صورة أو مزاجها أو دلالتها، وقد روجعت النتائج واحدةً واحدة.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 049 نموذج إضافي أعلى–أسفل 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 049 نموذج إضافي أعلى–أسفل 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 049 نموذج إضافي أعلى–أسفل 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 049 نموذج إضافي أعلى–أسفل 4"></td>
+  </tr>
+</table>
+
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091453089954070791) · 23 أغسطس 2026<br>
 > GPT2 × طباعة فنية × إحساس دافئ × توجيه جمالي × VOL.049
 
