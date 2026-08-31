@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 049
+# 🦁 XXD Panel 049｜木刻印记
 
 ### 把照片最动人的记忆，刻成一枚清新的限色版画
 

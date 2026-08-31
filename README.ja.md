@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 049
+# 🦁 XXD Panel 049｜木版の印
 
 ### 写真の心に残る記憶を、爽やかな限定色の版画に刻む
 

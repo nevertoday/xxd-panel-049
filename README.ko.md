@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 049
+# 🦁 XXD Panel 049｜목판 각인
 
 ### 사진의 가장 인상적인 기억을 맑은 제한색 판화로 새기기
 

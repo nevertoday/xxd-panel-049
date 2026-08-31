@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 049
+# 🦁 XXD Panel 049｜Woodcut Mark
 
 ### Carve the photograph's most affecting memory into a fresh limited-colour print
 
