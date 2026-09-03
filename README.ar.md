@@ -320,6 +320,14 @@ mkdir -p ~/.codex/skills
 ln -s "$(pwd)/xxd-panel-049" ~/.codex/skills/xxd-panel-049
 ```
 
+يمكنك أيضاً تثبيته مباشرةً باستخدام `npx skills`:
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-049 --skill xxd-panel-049
+```
+
+يجلب هذا الأمر المستودع من GitHub ويثبّت الـ Skill ذي الاسم نفسه للوكيل الحالي. وللتثبيت في دليل Codex العام للمستخدم، أضف `--global --agent codex --yes` في نهاية الأمر.
+
 XXD اختصار لعلامة Xiaoxiaodong. الإنشاء والصيانة: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). ويتاح Skill القائد العام لهذه السلسلة بدفعة واحدة قدرها 100 يوان. ويفتح دفع سنوي واحد قدره 699 يواناً Knowledge Planet ومكتبة توجيهات الأعضاء وعضوية جميع Skills الجنرالات: بعد الاشتراك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)، تواصل مع Xiaoxiaodong عبر WeChat للحصول على رمز استرداد [مكتبة التوجيهات](https://vip.xiaoxiaodong.ai/)؛ وبعد التفعيل الذاتي في مكتبة التوجيهات، تواصل عبر WeChat للحصول على دعوة إلى Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 > **إفصاح إعلاني:** رموز QR وروابط العضوية والخدمات المدفوعة أدناه هي مواد ترويجية من XXD. المسح أو الشراء اختياري ولا يؤثر في استخدام المشروع المفتوح المصدر.

@@ -318,6 +318,14 @@ mkdir -p ~/.codex/skills
 ln -s "$(pwd)/xxd-panel-049" ~/.codex/skills/xxd-panel-049
 ```
 
+`npx skills` でも直接インストールできます：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-049 --skill xxd-panel-049
+```
+
+このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
+
 XXD は Xiaoxiaodong のブランド名の略称です。作者：[@xiaoxiaodong01](https://x.com/xiaoxiaodong01)。このシリーズの将軍総指揮 Skill は一回払い CNY 100 で利用できます。知識星球＋会員プロンプトライブラリ＋全将軍 Skills 会員は、年額 CNY 699 の一回の支払いで3つの特典すべてを利用できます。[Knowledge Planet](https://wx.zsxq.com/group/15554814142882) から加入した場合は、WeChat で Xiaoxiaodong に連絡して[会員プロンプトライブラリ](https://vip.xiaoxiaodong.ai/)の引換コードを受け取ってください。プロンプトライブラリで自動開通した場合は、WeChat で連絡して Knowledge Planet への招待を受けてください。[WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 > **広告表示：** 以下のQRコードおよび有料会員・サービスのリンクはXXDのプロモーション情報です。スキャンや購入は任意であり、オープンソースの利用には影響しません。
