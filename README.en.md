@@ -21,7 +21,7 @@
   </tr>
 </table>
 
-## New 16:9 Left–Right Samples
+## 16:9 Landscape Left–Right Samples
 
 <table>
   <tr>
@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-## Additional 3:4 Top–Bottom Samples
+## 3:4 Portrait Top–Bottom Samples
 
 These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The reality photograph stays above; the lower design follows Panel 049's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
 
@@ -79,7 +79,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 049 on this image and recommend the best layout and size first.
 
-The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+The samples above can help you confirm the visual direction. When you are ready, continue to [Get started](#install). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
@@ -111,6 +111,9 @@ lock identity, silhouette, direction, and emotional relation → preserve three 
 - Reject one-click filters, polished vectors, cartoon outlines, complete frames, uniform grunge, and travel-poster templates.
 
 Full specifications: [Skill](SKILL.md) · [source brief](references/original-prompt/zh-CN.md) · [English runtime adapter](references/xxd-panel-049-prompt.en.md) · [Chinese runtime adapter](references/xxd-panel-049-prompt.zh-CN.md)
+
+<details>
+<summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
 
 ## The original brief is authoritative
 
@@ -146,6 +149,12 @@ Before generation, resolve one of three choices:
 3. **No text**: prohibit visible text and pseudo-text.
 
 The outer Skill no longer pre-writes titles, microcopy, or copy packages. Output language is resolved separately from the interface language and is never guessed from a person, scene, or filename.
+
+## Complete-canvas first, raster-only delivery
+
+The image model owns the aesthetics of the entire finished composition; paired layouts also default to one complete-canvas generation. `scripts/compose_panel.py` remains only for condition-based recovery, lossless pixel calibration, and read-only audit. It is not run pre-emptively and does not judge aesthetic success.
+
+Every deliverable is a raster PNG and every invocation creates a fresh task under `~/Desktop/xxd/`. The configured image route exposes sanitised status only—never providers, endpoints, credentials, headers, prompts, responses, or account details. SVG, HTML, Canvas, diagrams, and programmatic drawing are not substitutes for the final artwork.
 
 ## Capability-adaptive questions and inline parameters
 
@@ -248,6 +257,8 @@ Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Imag
 
 If no suitable route is available, the Skill asks the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task without being echoed, displayed, logged, or exposed. They are not persisted, and provider, account, billing, or global route configuration is not modified, unless the user explicitly requests that configuration change.
 
+</details>
+
 ## Install
 
 ```bash
@@ -267,9 +278,9 @@ The command fetches the repository from GitHub and installs the same-named Skill
 Claude Code users may link the folder under `~/.claude/skills/xxd-panel-049`. Restart the agent session and invoke `$xxd-panel-049`.
 
 <!-- xxd-panel-catalog:start -->
-## Complete XXD Panel catalog
+## Historical XXD Panel directory
 
-Each of the 60 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
+This table is the historical 001–060 Panel directory. Each entry preserves its own original brief and aesthetic logic; the current project is bold.
 
 | Project | Style characteristics |
 |---|---|
@@ -345,7 +356,7 @@ XXD abbreviates Xiaoxiaodong's brand name. Created and maintained by [@xiaoxiaod
 | Level | Skill | Responsibility |
 |---|---|---|
 | **General** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | Detect available numbered Skills; recommend by image, theme, or use; dispatch a chosen number; organize multi-style trials; and assign folders of images to individual jobs. |
-| **Soldiers** | `xxd-panel-NNN` (currently 001–060) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
+| **Soldiers** | `xxd-panel-NNN` (currently 001–112) | Each numbered Skill executes only its own original brief and aesthetic, completing the individual job assigned by the General. |
 
 The General Skill is the command center for the entire numbered-Skill roster. Your purchase unlocks it together with help for installation, updates, roster setup, and dispatch workflows. The General organizes and routes; it never rewrites, blends, or overrides a Soldier's original aesthetic. Every finished asset is still created independently by the selected Soldier Skill.
 <!-- xxd-panel-command-system:end -->
