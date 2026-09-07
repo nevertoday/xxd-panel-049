@@ -337,19 +337,19 @@ npx skills add https://github.com/nevertoday/xxd-panel-049 --skill xxd-panel-049
 
 이 명령은 GitHub에서 저장소를 가져와 같은 이름의 Skill을 현재 Agent에 설치합니다. 사용자 전역 Codex Skills 디렉터리에 설치하려면 명령 끝에 `--global --agent codex --yes`를 추가하세요.
 
-XXD는 Xiaoxiaodong 브랜드 이름의 약자입니다. 제작: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). 이 시리즈의 장군 총지휘 Skill은 CNY 100 일회 결제로 이용할 수 있습니다. 지식성구＋회원 프롬프트 라이브러리＋모든 장군 Skills 멤버십은 연 CNY 699 한 번의 결제로 세 가지 혜택을 모두 제공합니다. [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)에서 가입한 뒤 WeChat으로 Xiaoxiaodong에게 연락해 [회원 프롬프트 라이브러리](https://vip.xiaoxiaodong.ai/) 교환 코드를 받으세요. 프롬프트 라이브러리에서 셀프서비스로 개통한 뒤에는 WeChat으로 연락해 Knowledge Planet 초대를 받으세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD는 Xiaoxiaodong 브랜드 이름의 약자입니다. 제작: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). 지식성구＋회원 프롬프트 라이브러리＋모든 장군 Skills 멤버십은 연 CNY 699 한 번의 결제로 세 가지 혜택을 모두 제공합니다. [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)에서 가입한 뒤 WeChat으로 Xiaoxiaodong에게 연락해 [회원 프롬프트 라이브러리](https://vip.xiaoxiaodong.ai/) 교환 코드를 받으세요. 프롬프트 라이브러리에서 셀프서비스로 개통한 뒤에는 WeChat으로 연락해 Knowledge Planet 초대를 받으세요. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 > **광고 안내:** 아래 QR 코드와 유료 멤버십·서비스 링크는 XXD의 홍보 정보입니다. 스캔이나 구매는 선택 사항이며, 오픈 소스 이용에는 영향을 주지 않습니다.
 
 <!-- xxd-panel-command-system:start -->
-**구매 후 사용 가능: 전체 부대를 지휘하는 장군 Skill**
+
+모든 장군 Skills는 연 CNY 699 통합 멤버십에 포함되며 별도 구매가 필요하지 않습니다.
 
 | 등급 | Skill | 역할 |
 |---|---|---|
 | **장군급** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 사용 가능한 번호형 Skills 탐지, 이미지·주제·용도별 추천, 번호 지정 파견, 동일 입력의 여러 스타일 시안, 이미지 폴더의 일괄 배정과 개별 작업 파견. |
 | **병사급** | `xxd-panel-NNN` (현재 001–112) | 각 번호가 고유한 원본 프롬프트와 미학만 실행해 장군이 배정한 하나의 작업을 완성합니다. |
 
-장군 Skill은 번호형 Skills 전체 부대의 지휘 본부입니다. 구매 후 바로 사용할 수 있으며 설치, 버전 업데이트, 병력 구성, 파견 흐름에 대한 도움을 받을 수 있습니다. 장군은 조직과 파견만 담당하며 병사의 원본 미학을 다시 쓰거나 섞거나 덮어쓰지 않습니다. 각 결과물은 선택된 병사 Skill이 독립적으로 완성합니다.
 <!-- xxd-panel-command-system:end -->
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>

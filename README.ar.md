@@ -339,19 +339,19 @@ npx skills add https://github.com/nevertoday/xxd-panel-049 --skill xxd-panel-049
 
 يجلب هذا الأمر المستودع من GitHub ويثبّت الـ Skill ذي الاسم نفسه للوكيل الحالي. وللتثبيت في دليل Codex العام للمستخدم، أضف `--global --agent codex --yes` في نهاية الأمر.
 
-XXD اختصار لعلامة Xiaoxiaodong. الإنشاء والصيانة: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). ويتاح Skill القائد العام لهذه السلسلة بدفعة واحدة قدرها 100 يوان. ويفتح دفع سنوي واحد قدره 699 يواناً Knowledge Planet ومكتبة توجيهات الأعضاء وعضوية جميع Skills الجنرالات: بعد الاشتراك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)، تواصل مع Xiaoxiaodong عبر WeChat للحصول على رمز استرداد [مكتبة التوجيهات](https://vip.xiaoxiaodong.ai/)؛ وبعد التفعيل الذاتي في مكتبة التوجيهات، تواصل عبر WeChat للحصول على دعوة إلى Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+XXD اختصار لعلامة Xiaoxiaodong. الإنشاء والصيانة: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). ويفتح دفع سنوي واحد قدره 699 يواناً Knowledge Planet ومكتبة توجيهات الأعضاء وعضوية جميع Skills الجنرالات: بعد الاشتراك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)، تواصل مع Xiaoxiaodong عبر WeChat للحصول على رمز استرداد [مكتبة التوجيهات](https://vip.xiaoxiaodong.ai/)؛ وبعد التفعيل الذاتي في مكتبة التوجيهات، تواصل عبر WeChat للحصول على دعوة إلى Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
 
 > **إفصاح إعلاني:** رموز QR وروابط العضوية والخدمات المدفوعة أدناه هي مواد ترويجية من XXD. المسح أو الشراء اختياري ولا يؤثر في استخدام المشروع المفتوح المصدر.
 
 <!-- xxd-panel-command-system:start -->
-**يتيح الشراء Skill الجنرال الذي يقود الفريق كاملاً**
+
+تشمل العضوية الموحدة بسعر 699 يواناً صينياً سنوياً جميع Skills الجنرالات، ولا يلزم شراء منفصل.
 
 | المستوى | Skill | المسؤولية |
 |---|---|---|
 | **الجنرال** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | اكتشاف Skills المرقمة المتاحة، والتوصية حسب الصورة أو الموضوع أو الاستخدام، واستدعاء رقم محدد، وتنظيم تجارب متعددة الأساليب، وتوزيع صور المجلد على مهام منفصلة. |
 | **الجنود** | `xxd-panel-NNN` (حالياً 001–112) | تنفذ كل مهارة مرقمة موجّهها الأصلي وجماليتها الخاصة فقط، وتنجز المهمة الفردية التي يرسلها الجنرال. |
 
-مهارة الجنرال هي مركز قيادة فريق Skills المرقمة بأكمله. يتيحها الشراء فوراً مع دعم التثبيت والتحديث وتكوين الفريق وأساليب التوزيع. ينظم الجنرال ويوزع فقط؛ ولا يعيد كتابة جمالية الجندي الأصلية أو يخلطها أو يتجاوزها. وتبقى كل نتيجة من تنفيذ مهارة الجندي المختارة بصورة مستقلة.
 <!-- xxd-panel-command-system:end -->
 
 <p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
