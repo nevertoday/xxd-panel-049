@@ -82,21 +82,6 @@ XXD Panel 049 は複雑な背景と細部を積極的に削り、認識と感情
 視覚方向を先に確認したい場合は、上の作例をご覧ください。準備ができたら[使い始める](#インストールと作者)へ進めます。全モードと引数は折りたたみ資料から必要に応じて確認できます。
 <!-- xxd-human-intro:end -->
 
-## 使い方のコツ
-
-- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
-- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
-- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
-- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
-- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
-- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
-
-## 原始プロンプト · 5言語
-
-[統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
-
-簡体字中国語ファイルは小小東の文言を逐語で保存し、実行時の唯一の美的基準です。他の4言語は海外の読者が読み、共有するための忠実な翻訳であり、画像生成プロンプトを書き換えません。
-
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 049 はあなたに合う？
 
@@ -107,6 +92,38 @@ XXD Panel 049 は複雑な背景と細部を積極的に削り、認識と感情
 | **入力素材をどう尊重するか** | 入力に固有の人物・物・関係・構造・事実を識別可能なまま保ちます。スタイル変換は視覚言語を再構成するもので、内容を無関係なテンプレートへ置き換えません。 |
 | **利用できる形** | 上下、左右、デザインのみ、4端末の壁紙を、複数比率または正確なサイズで作れます。納品形式が変わっても、この Panel のスタイル固有性は薄まりません。 |
 <!-- xxd-panel-benefit:end -->
+
+## 使い方のコツ
+
+- **まず一枚の見やすい写真から始める：** 主体・動作・関係が分かる画像を選んでから、出力形式と比率を決めます。
+- **パラメータを一文でつなぐ：** 「上下 / 左右 / デザインのみ + 16:9 / 3:4 / スマホ壁紙」のように指定し、PC・タブレット・スマートウォッチのサイズも追加できます。
+- **残したい内容を明示する：** 人物、物、動作、関係、文字を指定し、レイアウトを細かく縛りすぎずスタイルに任せます。
+- **文字の方法を選ぶ：** 画像から自動生成、`--text exact --copy` で逐字固定、または `--text none` で文字なしにできます。
+- **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
+- **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
+
+## インストールと作者
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-049.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-049" ~/.codex/skills/xxd-panel-049
+```
+
+`npx skills` でも直接インストールできます：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-049 --skill xxd-panel-049
+```
+
+このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
+
+## 原始プロンプト · 5言語
+
+[統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+簡体字中国語ファイルは小小東の文言を逐語で保存し、実行時の唯一の美的基準です。他の4言語は海外の読者が読み、共有するための忠実な翻訳であり、画像生成プロンプトを書き換えません。
+
 
 <details>
 <summary><strong>全機能と引数（必要なときに開く）</strong></summary>
@@ -323,22 +340,6 @@ GPT Image 2 を既定の第一候補とします。高忠実度の参照画像�
 | [xxd-panel-059](https://github.com/nevertoday/xxd-panel-059) | 手描きの物語 · 童心の比喩 · 温かな紙感 · ほのかなユーモア · 詩的な傍白 |
 | [xxd-panel-060](https://github.com/nevertoday/xxd-panel-060) | 黒い主形 · 巨大な余白 · 網点の消散 · 禅的思考 · 思考の断片 |
 <!-- xxd-panel-catalog:end -->
-
-## インストールと作者
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-049.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-049" ~/.codex/skills/xxd-panel-049
-```
-
-`npx skills` でも直接インストールできます：
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-049 --skill xxd-panel-049
-```
-
-このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
 
 <!-- xxd-readme-ads:start -->
 ## XXD について
