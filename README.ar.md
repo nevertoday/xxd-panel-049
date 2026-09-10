@@ -339,24 +339,46 @@ npx skills add https://github.com/nevertoday/xxd-panel-049 --skill xxd-panel-049
 
 يجلب هذا الأمر المستودع من GitHub ويثبّت الـ Skill ذي الاسم نفسه للوكيل الحالي. وللتثبيت في دليل Codex العام للمستخدم، أضف `--global --agent codex --yes` في نهاية الأمر.
 
-XXD اختصار لعلامة Xiaoxiaodong. الإنشاء والصيانة: [@xiaoxiaodong01](https://x.com/xiaoxiaodong01). ويفتح دفع سنوي واحد قدره 699 يواناً Knowledge Planet ومكتبة توجيهات الأعضاء وعضوية جميع Skills الجنرالات: بعد الاشتراك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882)، تواصل مع Xiaoxiaodong عبر WeChat للحصول على رمز استرداد [مكتبة التوجيهات](https://vip.xiaoxiaodong.ai/)؛ وبعد التفعيل الذاتي في مكتبة التوجيهات، تواصل عبر WeChat للحصول على دعوة إلى Knowledge Planet. [WeChat](https://xiaoxiaodong.pages.dev/assets/wechat-qr.png)
+<!-- xxd-readme-ads:start -->
+## عن XXD
 
-> **إفصاح إعلاني:** رموز QR وروابط العضوية والخدمات المدفوعة أدناه هي مواد ترويجية من XXD. المسح أو الشراء اختياري ولا يؤثر في استخدام المشروع المفتوح المصدر.
+XXD هو اختصار اسم علامة Xiaoxiaodong. أنشأ هذا المشروع ويديره [@xiaoxiaodong01](https://x.com/xiaoxiaodong01).
+
+## عضوية Xiaoxiaodong متعددة المنصات · 699 يواناً صينياً سنوياً
+
+> **إفصاح إعلاني:** رمز QR وروابط العضوية والخدمات المدفوعة أدناه معلومات ترويجية من XXD. المسح أو الشراء اختياري تماماً ولا يؤثر في استخدام المشروع المفتوح المصدر.
+
+تفتح عضوية سنوية واحدة ثلاث مزايا معاً: **Knowledge Planet + مكتبة توجيهات أعضاء XXD + عضوية جميع Skills من مستوى General**. المزايا الثلاث ضمن عضوية واحدة ولا يلزم شراء منفصل.
 
 <!-- xxd-panel-command-system:start -->
 
-تشمل العضوية الموحدة بسعر 699 يواناً صينياً سنوياً جميع Skills الجنرالات، ولا يلزم شراء منفصل.
+### كيف تتعاون الـ Skills
 
-| المستوى | Skill | المسؤولية |
+| المستوى | ما يتضمنه | المهمة |
 |---|---|---|
-| **الجنرال** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | اكتشاف Skills المرقمة المتاحة، والتوصية حسب الصورة أو الموضوع أو الاستخدام، واستدعاء رقم محدد، وتنظيم تجارب متعددة الأساليب، وتوزيع صور المجلد على مهام منفصلة. |
-| **الجنود** | `xxd-panel-NNN` (حالياً 001–112) | تنفذ كل مهارة مرقمة موجّهها الأصلي وجماليتها الخاصة فقط، وتنجز المهمة الفردية التي يرسلها الجنرال. |
+| **General** | [`xxd-panel-all`](https://github.com/xiaoxiaodong-ai/xxd-panel-all) | يكتشف Skills المرقمة المتاحة، ويرشحها حسب الصورة أو الموضوع أو الاستخدام، وينظم المهام متعددة الأساليب والدفع بالجملة. |
+| **Soldier** | `xxd-panel-NNN` | تنفذ كل مهارة مرقمة موجّهها الأصلي وجماليتها الخاصة، وتنجز المهمة المحددة التي يوزعها General. |
 
 <!-- xxd-panel-command-system:end -->
 
-<p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD WeChat" width="280"></a></p>
+### ماذا تحصل عليه
 
-</div>
+1. **اجعل Xiaoxiaodong مستشارك لتعلّم الذكاء الاصطناعي**
+   اطرح أسئلتك في [Knowledge Planet](https://wx.zsxq.com/group/15554814142882) حول تعلّم الذكاء الاصطناعي والأدوات والمشاريع العملية. يجيب Xiaoxiaodong ويحوّل الأسئلة المفيدة إلى محتوى للأعضاء.
+2. **مكتبة توجيهات للأعضاء تتوسع باستمرار**
+   تضم [مكتبة توجيهات أعضاء XXD](https://vip.xiaoxiaodong.ai/) حالياً نحو 32 ألف توجيه، وستواصل التنظيم والتوسع بهدف تجاوز 100 ألف.
+3. **جميع Skills من مستوى General ودعم الاستخدام**
+   تغطي عضوية واحدة جميع Skills من مستوى General، مع إرشادات ودعم للأسئلة عند الحاجة.
+4. **أولوية للطلبات شديدة الاحتياج**
+   تُراجع التوجيهات والـ Skills ذات الطلب المرتفع والاحتياج الفعلي وتُطوّر أولاً حيثما كان ذلك مناسباً.
+
+### كيفية الاشتراك
+
+- [فعّل العضوية ذاتياً من موقع الأعضاء](https://vip.xiaoxiaodong.ai/).
+- أو امسح رمز QR أدناه للتواصل مع Xiaoxiaodong وطلب المساعدة في التفعيل.
+
+<p align="center"><a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="التواصل مع Xiaoxiaodong" width="280"></a></p>
+<!-- xxd-readme-ads:end -->
 
 ## الترخيص
 
