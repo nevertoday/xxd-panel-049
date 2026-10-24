@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-049
-description: "Create XXD Panel 049 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-049 or requests the exact Panel 049 style."
+description: "XXD Panel 049｜Woodcut Mark: carves the photo's subject into one limited-colour woodcut or linocut print floating on warm paper — only the outline, proportions, light-and-dark areas and key structure kept, with hesitant knife lines, uneven widths, fuzzy and broken edges, dry-brush gaps, missed ink and coarse grain, fading out at the edges with no rectangular frame. Soft, bright matte inks in light tones (cream, pale pink, mist green, light blue, soft yellow, peach, mint, coral) layered from the photo's colours. A one-to-three-word title and a few tiny typewriter notes, no fixed year. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-049 or asks for woodcut, linocut, block print or hand-carved relief print look from a photo."
 ---
 
 # XXD Panel 049

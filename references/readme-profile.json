@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 049｜Woodcut Mark: carves the photo's subject into one limited-colour woodcut or linocut print floating on warm paper — only the outline, proportions, light-and-dark areas and key structure kept, with hesitant knife lines, uneven widths, fuzzy and broken edges, dry-brush gaps, missed ink and coarse grain, fading out at the edges with no rectangular frame. Soft, bright matte inks in light tones (cream, pale pink, mist green, light blue, soft yellow, peach, mint, coral) layered from the photo's colours. A one-to-three-word title and a few tiny typewriter notes, no fixed year. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-049 or asks for woodcut, linocut, block print or hand-carved relief print look from a photo.",
+  "short_description": "木刻印记：把照片主体刻成一枚清新柔和、刀痕朴拙的限色木刻版画，压印在暖纸上",
+  "zh-CN": {
+    "name": "木刻印记",
+    "tagline": "把照片里最动人的那部分，刻成一枚清新柔和的限色木刻版画。",
+    "look": "主体被删去复杂背景，只留下决定识别度的轮廓、比例、明暗分区和关键结构，像用刻刀一刀一刀刻出来：线条有迟疑、粗细不均、边缘发毛、局部断裂，色块带干刷、漏印、缺墨和粗颗粒。版画悬在大片温暖纸白中间，边缘靠缺墨和纸色透底慢慢消失，没有矩形边框。颜色从照片出发，转成奶油白、浅粉、雾绿、浅蓝、嫩黄、淡橙、薄荷绿这类明亮柔和的哑光油墨，层层套印。文字是一个 1 到 3 个词的标题，加几个打字机体小字。",
+    "traits": ["木刻", "刀痕", "哑光套印", "暖纸", "不完整边缘"],
+    "good": [
+      "轮廓和明暗分明的单个主体：一只猫、一棵树、一座小屋、一只茶杯",
+      "画面简单、重心清楚的风景或静物：一座山、一扇窗、一束花",
+      "想做成藏书票、明信片、旅行笔记插图或安静海报的照片"
+    ],
+    "poor": [
+      "细节密集、需要精确还原的图：电路板、复杂建筑立面、文字很多的招牌",
+      "人很多、要认出每个人长相的合影",
+      "想要光滑矢量、卡通插画、灰暗沉重配色或廉价做旧效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Woodcut Mark",
+    "tagline": "Carves the most moving part of your photo into a fresh, soft limited-colour woodcut print.",
+    "look": "The subject loses its busy background and keeps only the outline, proportions, light-and-dark areas and key structure that make it recognisable, as if cut stroke by stroke with a knife: lines hesitate, vary in width, fray at the edges and break off, while colour areas show dry-brush gaps, missed ink and coarse grain. The print floats in wide warm paper white and fades out at its edges through missing ink and paper showing through, with no rectangular frame. Colours start from the photo and become bright, soft matte inks such as cream, pale pink, mist green, light blue, soft yellow, peach and mint, printed in layers. Text is a one-to-three-word title with a few small typewriter notes.",
+    "traits": ["Woodcut", "Knife marks", "Matte layered inks", "Warm paper", "Unfinished edges"],
+    "good": [
+      "Single subjects with clear outline and light and shade: a cat, a tree, a cabin, a teacup",
+      "Simple landscapes or still lifes with a clear centre: a mountain, a window, a bunch of flowers",
+      "Photos for a bookplate, a postcard, a travel-journal illustration or a quiet poster"
+    ],
+    "poor": [
+      "Dense images that need exact detail: circuit boards, complex façades, text-heavy signs",
+      "Crowded group photos where every face must be recognised",
+      "Requests for smooth vector art, cartoon illustration, dark heavy colour or cheap fake ageing"
+    ]
+  },
+  "ja": {
+    "name": "木版の印",
+    "tagline": "写真のいちばん心に残る部分を、爽やかで柔らかな限定色の木版画に彫ります。",
+    "look": "主役から込み入った背景を外し、見分けるのに必要な輪郭、比率、明暗の区分、主要な構造だけを残して、彫刻刀でひと彫りずつ刻んだように表します。線にはためらい、太さのむら、毛羽立った縁、途切れがあり、色面にはかすれ、刷り漏れ、インクの欠け、粗い粒子が出ます。版画は温かい紙の白の真ん中に浮かび、縁はインクの欠けや紙の透けでゆっくり消え、四角い枠はありません。色は写真から出発して、生成り、淡いピンク、霧のような緑、淡い青、若い黄、淡いオレンジ、ミントグリーンといった明るく柔らかなつや消しのインクになり、重ね刷りされます。文字は一〜三語のタイトルと、タイプライター書体の小さな文字が少しです。",
+    "traits": ["木版", "刀の跡", "つや消しの重ね刷り", "温かい紙", "欠けた縁"],
+    "good": [
+      "輪郭と明暗のはっきりした単体：猫、一本の木、小屋、ティーカップ",
+      "シンプルで重心の明確な風景や静物：山、窓、花束",
+      "蔵書票、ポストカード、旅の手帳の挿絵、静かなポスターにしたい写真"
+    ],
+    "poor": [
+      "細部が密で正確な再現が必要な画像：電子回路、複雑な建物の正面、文字の多い看板",
+      "人が多く、一人ひとりの顔を見分ける必要がある集合写真",
+      "なめらかなベクター、キャラクター風イラスト、暗く重い配色、安っぽい古び加工を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "목판 각인",
+    "tagline": "사진에서 가장 마음에 남는 부분을 맑고 부드러운 제한색 목판화로 새깁니다.",
+    "look": "주인공에서 복잡한 배경을 걷어 내고 알아보는 데 필요한 윤곽, 비율, 명암 구분, 핵심 구조만 남겨 조각칼로 한 칼 한 칼 새긴 듯 표현합니다. 선에는 망설임, 고르지 않은 굵기, 보풀 같은 가장자리, 끊긴 곳이 있고, 색면에는 마른 붓 자국, 덜 찍힌 곳, 잉크가 빠진 자리, 거친 입자가 남습니다. 판화는 넓은 따뜻한 종이 흰색 한가운데 떠 있고, 가장자리는 잉크가 빠지고 종이가 비치며 서서히 사라지며 네모난 테두리는 없습니다. 색은 사진에서 출발해 미색, 연분홍, 안개빛 초록, 연파랑, 연노랑, 연주황, 민트 같은 밝고 부드러운 무광 잉크가 되어 겹겹이 찍힙니다. 글자는 한 단어에서 세 단어의 제목과 타자기 글꼴의 작은 메모 몇 개입니다.",
+    "traits": ["목판", "칼자국", "무광 겹쳐 찍기", "따뜻한 종이", "미완의 가장자리"],
+    "good": [
+      "윤곽과 명암이 분명한 단일 주인공: 고양이, 나무 한 그루, 오두막, 찻잔",
+      "단순하고 중심이 분명한 풍경이나 정물: 산, 창문, 꽃다발",
+      "장서표, 엽서, 여행 노트 삽화, 조용한 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "세부가 빽빽하고 정확히 재현해야 하는 이미지: 회로 기판, 복잡한 건물 정면, 글자가 많은 간판",
+      "사람이 많고 모든 얼굴을 알아봐야 하는 단체 사진",
+      "매끈한 벡터, 캐릭터 일러스트, 어둡고 무거운 배색, 싸구려 빈티지 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "أثر الحفر الخشبي",
+    "tagline": "يحفر أكثر ما يؤثر في صورتك في طبعة خشبية منعشة ناعمة محدودة الألوان.",
+    "look": "يفقد الموضوع خلفيته المزدحمة ولا يحتفظ إلا بالخط الخارجي والنِسب ومناطق الضوء والظل والبنية الأساسية التي تجعله معروفاً، كأنه حُفر ضربة بعد ضربة بالإزميل: خطوط مترددة متفاوتة السماكة بحواف منسلّة وانقطاعات، ومساحات لونية فيها آثار فرشاة جافة وفجوات في الطبع ونقص في الحبر وحبيبات خشنة. تطفو الطبعة وسط بياض ورق دافئ واسع وتتلاشى حوافها عبر نقص الحبر وظهور الورق، بلا إطار مستطيل. تنطلق الألوان من الصورة لتصبح أحباراً مطفأة مشرقة ناعمة مثل الكريمي والوردي الفاتح والأخضر الضبابي والأزرق الفاتح والأصفر الطري والخوخي والنعناعي، مطبوعة طبقة فوق طبقة. النص عنوان من كلمة إلى ثلاث كلمات مع بضع ملاحظات صغيرة بخط الآلة الكاتبة.",
+    "traits": ["حفر خشبي", "آثار الإزميل", "أحبار مطفأة متراكبة", "ورق دافئ", "حواف غير مكتملة"],
+    "good": [
+      "موضوع منفرد بخط خارجي وضوء وظل واضحين: قطة، شجرة، كوخ، فنجان شاي",
+      "مناظر طبيعية أو طبيعة صامتة بسيطة بمركز واضح: جبل، نافذة، باقة زهور",
+      "صور لعلامة كتاب أو بطاقة بريدية أو رسم لدفتر رحلات أو ملصق هادئ"
+    ],
+    "poor": [
+      "صور كثيفة تحتاج إلى تفاصيل دقيقة: لوحات الدوائر، الواجهات المعقدة، اللافتات المليئة بالنصوص",
+      "صور جماعية مزدحمة يجب فيها تمييز كل وجه",
+      "طلب رسوم متجهية ملساء أو رسوم كرتونية أو ألوان قاتمة ثقيلة أو تعتيق رخيص"
+    ]
+  }
+}
